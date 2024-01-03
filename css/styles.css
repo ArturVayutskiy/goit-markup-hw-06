@@ -326,7 +326,7 @@ img {
 }
 
 
-@media screen and (min-width: 1158px) {m
+@media screen and (min-width: 1158px) {
     .section-first  {
         padding-top: 188px;
         padding-bottom: 188px;
@@ -403,6 +403,14 @@ img {
     padding-bottom: 96px;
 }
 
+@media screen and (min-width: 1158px) {
+    .section-second {
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+}
+
+
 
 .box-icon {
     display: flex;
@@ -463,7 +471,7 @@ img {
 
 @media screen and (min-width: 1158px) {
     .section-second .list {
-        padding: 120px 0;  
+          
     }
 }
 
