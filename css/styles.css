@@ -252,23 +252,12 @@ img {
     list-style: none;
 }
 
-@media screen and (min-width: 768px) {
-    .address-link { 
-        font-size: 12px;
-    }
-}
-
-@media screen and (min-width: 1158px) {
-    .address-link { 
-        font-size: 16px;
-    }
-}
 
 .adress-links {
     color: var(--SLATE, #434455);
     /* Body */
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
     font-style: normal;
     font-weight: 400;
     line-height: 24px; /* 150% */
