@@ -1359,4 +1359,6 @@ img {
 
 .mobile-menu-socials {
     gap: 40px;
+    display: inline-flex;
+    justify-content: flex-start;
 }
